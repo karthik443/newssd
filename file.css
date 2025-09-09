@@ -1,0 +1,40 @@
+body{
+    background-color: aliceblue;
+}
+.removeDisplay {
+  display: none; 
+  background-color: rgb(186, 186, 231);
+}
+
+.removeDisplay.active {
+  
+  display: table; 
+}
+
+body{
+   background-color: #f9f3eb;
+}
+
+table{
+    margin-top: 20px;
+    background-color: #bacfe1;
+}
+#nav-bar{
+
+    background-color: rgb(90, 111, 119);
+    /* margin-bottom: 20px; */
+}
+#nav-bar a:hover{
+    color: rgb(241, 237, 237);
+    font-weight: bold;
+}
+#nav-bar a{
+    color: white;
+    /* font-weight: bold; */
+}
+#head{
+    color: white;
+    font-weight: bolder;
+    background-color: #60b5ff;
+}
+
